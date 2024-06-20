@@ -8,3 +8,4 @@ Important Things to Note:
 4. All the hats should be in the same folder as the python file.
 5. Demonstration video included in folder.
 6. Hats are unrendered when no facial mesh is detected.
+7. Download all the Hat.png files for the filter to work.
